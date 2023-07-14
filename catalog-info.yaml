@@ -18,3 +18,4 @@ spec:
   type: website
   lifecycle: production
   owner: group:spp-sml
+  subcomponentOf: sml-python-small
