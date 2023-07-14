@@ -5,7 +5,8 @@ metadata:
   description: The build environment and code to generate and upload the SML portal web application.
   annotations:
     jira/project-key: SPP
-    github.com/project-slug: ONSdigital/sml-catalogue
+    github.com/project-slug: backstage-dummy-org/sml-catalogue
+    backstage.io/linguist: https://github.com/backstage-dummy-org/sml-python-small/
   tags:
     - python
     - html
