@@ -19,4 +19,5 @@ spec:
   type: website
   lifecycle: production
   owner: group:spp-sml
+  system: sml
   subcomponentOf: sml-python-small
