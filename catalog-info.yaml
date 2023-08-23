@@ -1,6 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  title: SML Catalogue
   name: sml-catalogue
   description: The build environment and code to generate and upload the SML portal web application.
   annotations:
